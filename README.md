@@ -1,7 +1,7 @@
 
 # EungSoo KIM, Back-end Developer
 
-<center>
+<div align="center">
 
 ### 📫 Contact
 
@@ -22,7 +22,7 @@
 * * *
 
 ### 🌟 Skill
-##### *Language*
+#### *Language*
 <a href="https://github.com/topics/javascript" style="display: inline">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
 </a>
@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Typescript-5931?style=flat-square&logo=TypeScript&logoColor=white" />
 </a>
 
-##### *Back-end*
+#### *Back-end*
 <a href="https://github.com/nodejs" style="display: inline">
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
 </a>
@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 </a> -->
 
-##### *Database*
+#### *Database*
 <a href="" style="display: inline">
 <a href="https://github.com/mysql" style="display: inline">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
@@ -55,7 +55,7 @@
 </a>
 
 
-##### *Devops*
+#### *Devops*
 <a href="" style="display: inline">
     <img src="https://img.shields.io/badge/Docker-4A154B?style=flat-square&logo=docker&logoColor=" />
 </a>
@@ -64,7 +64,7 @@
 </a>
 
 
-##### *Cooperation*
+#### *Cooperation*
 <a href="" style="display: inline">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=" />
 </a>
@@ -93,3 +93,4 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=eungsooKIM&layout=compact&theme=dark&show_icons=true" />
 </a>
+</div>

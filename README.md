@@ -1,6 +1,7 @@
 
 # EungSoo KIM, Back-end Developer
 
+<center>
 
 ### 📫 Contact
 
@@ -15,11 +16,18 @@
 </a>
 
 
+<br>
+<br>
+
+* * *
 
 ### 🌟 Skill
 ##### *Language*
 <a href="https://github.com/topics/javascript" style="display: inline">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+</a>
+<a href="https://github.com/topics/typescript" style="display: inline">
+    <img src="https://img.shields.io/badge/Typescript-5931?style=flat-square&logo=TypeScript&logoColor=white" />
 </a>
 
 ##### *Back-end*
@@ -70,6 +78,10 @@
     <img src="https://img.shields.io/badge/Trello-01350?style=flat-square&logo=trello&logoColor=white" />
 </a>
 
+<br>
+<br>
+
+* * *
 
 ### 🔭 Statatus
 

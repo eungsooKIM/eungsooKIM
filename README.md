@@ -1,7 +1,9 @@
 
+<div align="center">
+    
 # EungSoo KIM, Back-end Developer
 
-<div align="center">
+<br>
 
 ### 📫 Contact
 

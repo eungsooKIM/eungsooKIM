@@ -2,7 +2,7 @@
 # EungSoo KIM, Back-end Developer
 
 
-#### 📫 Contact
+### 📫 Contact
 
 
 <img src="https://img.shields.io/badge/📞 010--9854--7456-brightgreen?style=flat-square&logo=" />
@@ -16,7 +16,7 @@
 
 
 
-#### 🌟 Skill
+### 🌟 Skill
 ##### *Language*
 <a href="https://github.com/topics/javascript" style="display: inline">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
@@ -71,7 +71,7 @@
 </a>
 
 
-#### 🔭 Statatus
+### 🔭 Statatus
 
 
 
